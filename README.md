@@ -1,1 +1,1 @@
-^ Sentiment Analysis with Naive Bayes and Logistic Regression
+> Sentiment Analysis with Naive Bayes and Logistic Regression
